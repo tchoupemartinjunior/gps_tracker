@@ -1,4 +1,18 @@
-body{
-    margin: top 2px;
-    text-align: center;
+/**************** Inscription *****************************/
+body {
+     background-color: #161752;
+}
+.container{
+    justify-content: center;
+    margin: 0 auto;
+    margin-top:50px;  
+}
+.row{
+    justify-content: center;
+}
+.card{
+    background-color: #f3f3f0;
+}
+.btn-warning{
+    background-color: #F2994A;
 }
